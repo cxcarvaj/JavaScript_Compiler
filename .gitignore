@@ -1,0 +1,6 @@
+compiler/__pycache__/
+compiler/*.out
+compiler/parsetab.py
+compiler/.idea/
+compiler/venv/
+compiler/*.txt
